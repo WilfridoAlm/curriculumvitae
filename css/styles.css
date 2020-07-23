@@ -1,0 +1,114 @@
+
+.top-container{
+  background-color: #84a9ac;
+  margin-top: 0;
+  position: relative;
+  padding-top: 50px;
+}
+body{
+  font-family: 'Merriweather', serif;
+  margin: 0;
+  text-align: center;
+}
+h1{
+  margin: 0;
+  font-size: 5.62rem;
+  color: #204051;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #204051;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #204051;
+}
+.middle-container{
+  margin-top: 0;
+  background-color: #e4e3e3;
+  padding: 20px 0;
+
+
+}
+.bottom-container{
+  background-color: #84a9ac;
+  margin-bottom: 0;
+  padding: 20px 0;
+
+
+}
+.bottom_cloud{
+  position: absolute;
+  left:200px;
+  bottom: 300px;
+}
+.top_cloud{
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+.chemist{
+  max-width:25%;
+  height:auto;
+  float: right;
+  margin-left: 30px;
+}
+.codingimg{
+  max-width:25%;
+  height:auto;
+  float: left;
+  margin-right: 30px;
+}
+.pp{
+  margin-top: 0;
+  border-radius: 50%;
+  max-width:20%;
+  height:auto;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto;
+  text-align: justify;
+  line-height: 2;
+}
+.skill-row-last{
+  width: 50%;
+  margin: 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.myButton {
+	background-color:#084a9a;
+	border-radius:28px;
+	border:1px solid #18ab29;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:17px;
+	padding:16px 31px;
+	text-decoration:none;
+	text-shadow:0 1px 0 #2f6627;
+}
+.myButton:hover {
+	background-color:#5cbf2a;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.footer-link{
+  padding: 0 20px;
+  text-decoration: none;
+
+}
+.footer-link:hover{
+  color: gold;
+}
+.copyright{
+  color: gold;
+  font-size: 0.75rem;
+  padding-top: 30px;
+}
